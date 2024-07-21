@@ -1,8 +1,12 @@
 namespace HireHub
 {
+
     public class Program
     {
+
         public static void Main(string[] args)
+
+
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +14,8 @@ namespace HireHub
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
-
+            // Configure the HTTP request pipeline.
+            app.UseHttpsRedirection();
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
