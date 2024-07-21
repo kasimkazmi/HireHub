@@ -58,3 +58,4 @@ D:\Kasim\Conestoga\Mobile Solutions and Development\Sem 2\PROG8186-Web Technolog
 D:\Kasim\Conestoga\Mobile Solutions and Development\Sem 2\PROG8186-Web Technologies\Labs\Lab 4\HireHub\obj\Debug\net8.0\scopedcss\projectbundle\HireHub.bundle.scp.css
 D:\Kasim\Conestoga\Mobile Solutions and Development\Sem 2\PROG8186-Web Technologies\Labs\Lab 4\HireHub\obj\Debug\net8.0\HireHub.genruntimeconfig.cache
 D:\Kasim\Conestoga\Mobile Solutions and Development\Sem 2\PROG8186-Web Technologies\Labs\Lab 4\HireHub\obj\Debug\net8.0\ref\HireHub.dll
+D:\Kasim\Conestoga\Mobile Solutions and Development\Sem 2\PROG8186-Web Technologies\Labs\Lab 4\HireHub\obj\Debug\net8.0\HireHub.sourcelink.json
