@@ -1,0 +1,29 @@
+﻿@model IEnumerable<HireHub.Models.Shade>
+
+<h2>MSD - Shades</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Description</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var shade in Model)
+        {
+            <tr>
+                <td>@shade.Id</td>
+                <td>@shade.Name</td>
+                <td>@shade.Brand</td>
+                <td>@shade.Description</td>
+                <td>@shade.Quantity</td>
+                <td>@shade.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RajaKazmiLab4.props" />
+</Project>
